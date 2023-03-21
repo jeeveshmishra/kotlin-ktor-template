@@ -3,7 +3,7 @@ import org.gradle.api.tasks.testing.logging.TestExceptionFormat.FULL
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 import org.openapitools.generator.gradle.plugin.tasks.GenerateTask
 
-val ktorVersion = "2.2.2"
+val ktorVersion = "2.2.4"
 val junitJupiterVersion = "5.9.2"
 val logbackVersion = "1.4.5"
 val logstashVersion = "7.2"
